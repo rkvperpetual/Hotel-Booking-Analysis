@@ -29,15 +29,13 @@ This project focuses on analyzing hotel booking data to uncover patterns and tre
 - Comparison between city hotel and resort hotel bookings
 - Visual insights into guest demographics and preferences
 
-> 📷 Optional: Add screenshots from your notebook to show graphs and findings here.
-
 ---
 
 ## 🚀 How to Run This
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/your-username/hotel-booking-analysis.git
+   git clone https://github.com/rkvperpetual/hotel-booking-analysis.git
    ```
 
 2. **Install required packages**:
@@ -62,5 +60,5 @@ This project focuses on analyzing hotel booking data to uncover patterns and tre
 
 ## 👤 Author
 
-**[Your Name](https://github.com/your-username)**  
+**[Raj Kumar Vishwakarma](https://github.com/rkvperpetual)**  
 Feel free to ⭐ the repo or fork for your own experiments!
